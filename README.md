@@ -7,4 +7,6 @@
 
 **BSc Data Science Thesis | NIBM - National Institute of Business Management**
 
-A production-ready hybrid ML-LLM system demonstrating that **AI can achieve human-level reasoning at machine-scale costs** through confidence-based orchestration. Validated on N=100 Lending Club loan applications with 89.36% accuracy and 85% ML-only routing.
+A production-ready hybrid ML-LLM system demonstrating that **AI can achieve human-level reasoning at machine-scale costs** through confidence-based orchestration.
+
+Validated on N=100 Lending Club loan applications with 89.36% accuracy and 85% ML-only routing.

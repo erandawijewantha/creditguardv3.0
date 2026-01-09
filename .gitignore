@@ -1,0 +1,7 @@
+.data/
+.data/raw/*.csv
+__pycache__/
+logs/
+
+.env
+data/raw/*.csv
